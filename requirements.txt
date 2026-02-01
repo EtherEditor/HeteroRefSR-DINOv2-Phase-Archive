@@ -1,0 +1,7 @@
+torch>=2.6.0
+transformers>=5.0.0
+opencv-python
+numpy
+scikit-learn
+pillow
+matplotlib
