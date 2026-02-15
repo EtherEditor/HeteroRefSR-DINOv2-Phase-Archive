@@ -1,5 +1,6 @@
 # HeteroRef-SR: Semantic-driven Texture Transfer for Heterochromia
-
+Reference: https://github.com/XPixelGroup/BasicSR.git Sha:8d56e3a045f9fb3e1d8872f92ee4a4f07f886b0a
+https://github.com/caojiezhang/DATSR.git SHA:32240b58d2c62b521ae390d0af31a1ed61316c80
 ## 🛠 Research Status: Archived (Feb 2026)
 Experimental archive focused on reconstructing textures in low-res (160px) heterochromia images via high-res (1884px) reference. Project confirmed the feasibility of zero-shot semantic alignment but identified phase shift bottlenecks in extreme scale-up tasks.
 
