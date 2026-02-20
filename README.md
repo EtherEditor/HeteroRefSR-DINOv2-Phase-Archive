@@ -1,3 +1,6 @@
+【世界是失真的，但你可以这样做...】 https://www.bilibili.com/video/BV14Em1B9EKf/?share_source=copy_web&vd_source=d6bcbdf569d2db72f93a299cb912a776
+DLSS等超分技术也是利用多张相似图片进行图像配准，目前游戏应用广泛是因为游戏引擎转向了延迟渲染、可以方便获得运动矢量
+
 # HeteroRef-SR: Semantic-driven Texture Transfer for Heterochromia
 Reference: https://github.com/XPixelGroup/BasicSR.git Sha:8d56e3a045f9fb3e1d8872f92ee4a4f07f886b0a
 https://github.com/caojiezhang/DATSR.git SHA:32240b58d2c62b521ae390d0af31a1ed61316c80
