@@ -1,13 +1,24 @@
 Feb 25, 2026:
+
 I. Core Model Version & Official Designation
 The core model utilized for the high-definition upscaling and detail enhancement of the anime heterochromia image is Doubao-Seedream-5.0-Lite. This model is part of the Doubao Large Model 2.0 (Doubao-Seed-2.0) multimodal capability matrix, fully released in February 2026, and currently serves as the primary commercial production version for image generation and super-resolution enhancement within the Doubao App.
 
-Project Standard Information,Details
-Official Name,Doubao-Seedream-5.0-Lite
-Publisher,ByteDance Volcano Engine Seed Team
-Release Date,"February 13, 2026"
-Core Capabilities,"Image Super-Resolution Reconstruction (Upscaling), Anime Illustration Detail Enhancement, Image-to-Image Style Consistency, Multimodal Image Generation"
-Previous Iterations,"Doubao-Seedream-4.5 (Dec 2025), Doubao-Seedream-4.0 (Sep 2025)"
+# Doubao-Seedream-5.0-Lite
+
+> **Publisher:** ByteDance Volcano Engine Seed Team  
+> **Release Date:** February 13, 2026
+
+### 📋 Model Details
+
+- **Core Capabilities:**
+  - Image Super-Resolution Reconstruction (Upscaling)
+  - Anime Illustration Detail Enhancement
+  - Image-to-Image Style Consistency
+  - Multimodal Image Generation
+
+- **Version History:**
+  - *Current:* **5.0-Lite**
+  - *Previous:* 4.5 (Dec 2025), 4.0 (Sep 2025)
 ---
 
 II. Academic Citation Standards & Attribution
@@ -17,6 +28,7 @@ As this is an enterprise-grade closed-source commercial model, there is currentl
 "The high-definition processing of the anime image was conducted using the Doubao-Seedream-5.0-Lite image enhancement model, released by the ByteDance Volcano Engine Seed Team in 2026. This model belongs to the Doubao Large Model 2.0 multimodal architecture. Its core super-resolution technical framework is based on open-source academic achievements such as ESRGAN and Real-ESRGAN, with specific optimizations for anime illustration scenarios."
 
 2. BibTeX Format (LaTeX References)
+
 Code snippet
 @misc{bytedance2026seedream5lite,
   author = {ByteDance Seed Team},
@@ -26,6 +38,7 @@ Code snippet
   publisher = {Volcano Engine, ByteDance Ltd.},
   note = {Commercial closed-source model, publicly accessible via Doubao App and Volcano Engine Ark Platform}
 }
+
 3. Technical Task Classification
 Task Standard Name: Blind Single Image Super-Resolution for Anime Illustrations.
 
@@ -33,6 +46,7 @@ Technical Route: A GAN-based architecture optimized with perception-driven super
 
 III. Related Technical Context
 Reference (Feb 20, 2026): "[The World is Distorted, But You Can Do This...]" (Bilibili Video Link：https://www.bilibili.com/video/BV14Em1B9EKf/?share_source=copy_web&vd_source=d6bcbdf569d2db72f93a299cb912a776).
+
 Note on DLSS: Super-resolution technologies like DLSS also utilize multiple similar images for image registration (Temporal Super Resolution). Their widespread application in gaming is due to the shift in game engines toward deferred rendering, which allows for the convenient acquisition of motion vectors.
 
 # HeteroRef-SR: Semantic-driven Texture Transfer for Heterochromia
